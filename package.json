@@ -1,12 +1,12 @@
 {
   "name": "24-7-music-bot",
   "version": "1.1.0",
-  "description": "HESAM TVS DISCORD RADIO BOT 24/7",
+  "description": "FA NETWROK RADIO YT BOT 24/7",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "hesam TVS",
+  "author": "mohammad.mahdi αℓιєηツ#6502",
   "license": "GPL-3.0-only",
   "dependencies": {
     "discord.js": "^12.5.1",
